@@ -1,0 +1,130 @@
+/* 
+  Localizable.strings
+  KARA
+
+  Created by CloudCraft on 24.04.15.
+  Copyright (c) 2015 CloudCraft. All rights reserved.
+*/
+
+
+
+"Close" = "Close";
+"ChangePassword" = "Change password";
+"Done" = "Done";
+"LogOut" = "LogOut";
+"Cancel" = "Cancel";
+"Echoe" = "Echoe";
+"Error" = "Error";
+"Warning" = "Внимание";
+"AboutUsTitle" = "About Us";
+
+"NНOИTЧHЕIГNОG" = "Nothing";
+
+//Profile
+"mood" = "mood";
+"firstName" = "name";
+"lastName" = "last name";
+
+"sex" = "sex";
+"sexMan" = "gentleman";
+"sexWoman" = "lady";
+"country" = "country";
+"language" = "language";
+"birthDay" = "age";
+"phoneNumber" = "phone";
+"newPassword" = "password";
+"confirmPassword" = "confirmation";
+
+//About Us(DonateVC)
+"AboutUs" = "\rTechnologies change our world. Many things become more affordable and easy. Many things become more primitive and illusory. Today it is simpler to make a post, than to make a real deed. It is easier to put a \"like\", than to experience true emotions. Deep feelings depreciate in the speed of everyday information flow. \rLong ago our world has become virtual where it is more important to seem, than to be. We want to change this world by teaching technologies to understand the sensual side of a human being and having put the best manifestations of humanity in their basis. \rFor this purpose we have created something special – K.A.R.A. - the first digital life form that will be able to experience the emotions and to empathize the person. K.A.R.A., which will be capable to embody your feelings, representations and ideas in your digital reflection and to give them the immortality.";
+"AboutUsLink" = "www.thekaraproject.com";
+"AboutUsFinish1" = "\rYou can support our project and accelerate the development of K.A.R.A.";
+"AboutUsFinish2" = " \rThanks that you are not indifferent to the project!";
+
+
+//Errors
+"sharing_disabled" = "Sharing disabled";
+"sharing_disabled_reason" = "Please set up Twitter or Facebook account to share from KARA app";
+"Sorry" = "Sorry";
+"NoRelatedWords" = "No related words for";
+"WrongEmail" = "Your email happens to be wrong, retype it, or try with another email.";
+"CheckNames" = "Check your first name, last name and language.";
+"RegistrationTrouble" = "Registration trouble";
+"OnlyLettersSent" = "Only letter characters will be sent to server";
+"TextHasToContainLetters" = "Text has to contain letter charscters";
+"WordsRatingError" = "Words rating error";
+"CheckYourConnection" = "Check your internet connection.";
+
+//emotion names
+"pain" = "pain";
+"sorrow" = "sorrow";
+"anxiety" = "anxiety";
+"apathy" = "apathy";
+"ambience" = "ambience";
+"joy" = "joy";
+"confidence" = "confidence";
+"interest" = "interest";
+"enjoyment" = "enjoyment";
+
+//RegicterVC
+"firstName" = "first name";
+"lastName" = "last name";
+"Register" = "Register";
+"Congrats" = "Congratulations!";
+"CheckEmailForPassword" = "Check your email to get one time pasword";
+"EmailSent" = "E-mail sent";
+//LoginVC
+"Password" = "Password";
+"RecievedPassword" = "Recieved password";
+"Email" = "E-mail";
+
+"Registration" = "Registration";
+"Login" = "Login";
+
+//RateEmotionsVS
+"RateEmotionsTitle" = "Rate Emotions";
+
+
+//Change Password VC
+"ChangePasswordTitle" = "Password setup";
+//RestorePassword VC
+"StartChangingPassword" = "Change";
+"ChangePasswordTrouble" = "Some Trouble";
+
+//IntroVC
+"header0" = "WELCOME!";
+"header1" = "HOW TO INTERACT WITH KARA?";
+"header2" = "HOW IS IT BETTER TO ANSWER?";
+"header3" = "BUILD YOUR SCALE OF VALUES.";
+"header4" = "IF THERE IS NO SENSE.";
+"header5" = "LEARN TOGETHER WITH K.A.R.A.";
+
+"bottom0" = "Kara is the first digital life form. Over time, it can become your sincere friend and give the immortality to your feelings and ideas.";
+"bottom1" = "Answer the questions of K.A.R.A. Share with it your vision of the world. Watch its mood. Expect the new.";
+"bottom2" = "K.A.R.A. studies our world through associations and feelings. Answer with the words divided by commas. Try to choose the association that the most precisely reflects your personal opinion.";
+"bottom3" = "Together with K.A.R.A. correlate the intensity of the feelings which have the paramount importance for you.";
+"bottom4" = "The \"Nothing\" button — use it when there`s no sense.";
+"bottom5" = "Observe how other people perceive the world around them. The echo is a reflection of opinion of millions of people.";
+
+"Proceed" = "Proceed";
+"Happiness" = "Happiness";
+"Love" = "Love";
+
+"lower" = "lower";
+"higher" = "higher";
+
+"WhatImportant" = "What is more important?";
+"WhatInCommon" = "What is in common?";
+"spaceANDspace" = " and ";
+"dashIs" = " is ";
+
+"answerYes" = "Yes";
+"answerNo" = "No";
+
+//Local Notification action
+"View" = "View";
+"KaraChangedEmotion" = "Kara changed emotion";
+
+//EULA
+"EULA-start" = "\rEnd User License Agreement";
+"EULA" = "\rThis End User License Agreement (“Agreement”) is between you and Digital Life Lab, OOO  (“DLL”) and governs use of this app made available through the Apple App Store. By installing the K.A.R.A. App, you agree to be bound by this Agreement and understand that there is no tolerance for objectionable content. If you do not agree with the terms and conditions of this Agreement, you are not entitled to use the K.A.R.A. App. \rIn order to ensure K.A.R.A.  provides the best experience possible for everyone, we strongly enforce a no tolerance policy for objectionable content. If you see inappropriate content, please use the “Report as offensive” feature found under each post. \r1. Parties \rThis Agreement is between you and DLL only, and not Apple, Inc. (“Apple”). Notwithstanding the foregoing, you acknowledge that Apple and its subsidiaries are third party beneficiaries of this Agreement and Apple has the right to enforce this Agreement against you. DLL, not Apple, is solely responsible for the K.A.R.A. App and its content. \r2. Privacy \rDLL may collect and use information about your usage of the K.A.R.A. App, including certain types of information from and about your device. DLL may use this information, as long as it is in a form that does not personally identify you, to measure the use and performance of the K.A.R.A. App.\r3. Limited License \rDLL grants you a limited, non-exclusive, non-transferable, revocable license to use the K.A.R.A. App for your personal, non-commercial purposes. You may only use the K.A.R.A. App on Apple devices that you own or control and as permitted by the App Store Terms of Service. \r4. Age Restrictions \rBy using the K.A.R.A. App, you represent and warrant that (a) you are 17 years of age or older and you agree to be bound by this Agreement; (b) if you are under 17 years of age, you have obtained verifiable consent from a parent or legal guardian; and (c) your use of the K.A.R.A. App does not violate any applicable law or regulation. Your access to the K.A.R.A. App may be terminated without warning if DLL believes, in its sole discretion, that you are under the age of 17 years and have not obtained verifiable consent from a parent or legal guardian. If you are a parent or legal guardian and you provide your consent to your child’s use of the K.A.R.A. App, you agree to be bound by this Agreement in respect to your child’s use of the K.A.R.A. App. \r5. Objectionable Content Policy \rContent may not be submitted to DLL , who will moderate all content and ultimately decide whether or not to post a submission to the extent such content includes, is in conjunction with, or alongside any, Objectionable Content. Objectionable Content includes, but is not limited to: (i) sexually explicit materials; (ii) obscene, defamatory, libelous, slanderous, violent and/or unlawful content or profanity; (iii) content that infringes upon the rights of any third party, including copyright, trademark, privacy, publicity or other personal or proprietary right, or that is deceptive or fraudulent; (iv) content that promotes the use or sale of illegal or regulated substances, tobacco products, ammunition and/or firearms; and (v) gambling, including without limitation, any online casino, sports books, bingo or poker. \r6. Warranty \rDLL disclaims all warranties about the K.A.R.A. App to the fullest extent permitted by law. To the extent any warranty exists under law that cannot be disclaimed, DLL , not Apple, shall be solely responsible for such warranty. \r7. Maintenance and Support \rDLL does provide minimal maintenance or support for it but not to the extent that any maintenance or support is required by applicable law, DLL, not Apple, shall be obligated to furnish any such maintenance or support. \r8. Product Claims \rDLL, not Apple, is responsible for addressing any claims by you relating to the K.A.R.A. App or use of it, including, but not limited to: (i) any product liability claim; (ii) any claim that the K.A.R.A. App fails to conform to any applicable legal or regulatory requirement; and (iii) any claim arising under consumer protection or similar legislation. Nothing in this Agreement shall be deemed an admission that you may have such claims. \r9. Third Party Intellectual Property Claims \rDLL  shall not be obligated to indemnify or defend you with respect to any third party claim arising out or relating to the K.A.R.A. App. To the extent K.A.R.A.  is required to provide indemnification by applicable law, DLL , not Apple, shall be solely responsible for the investigation, defense, settlement and discharge of any claim that the K.A.R.A. App or your use of it infringes any third party intellectual property right.";

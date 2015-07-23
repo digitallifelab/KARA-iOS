@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7702" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7701"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="back" translatesAutoresizingMaskIntoConstraints="NO" id="wyL-Vg-2VT" userLabel="backgroundStratImageView">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                </imageView>
+                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="  Copyright (c) 2015 CloudCraft. All rights reserved." textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="9" translatesAutoresizingMaskIntoConstraints="NO" id="8ie-xW-0ye">
+                    <rect key="frame" x="20" y="446" width="281" height="14"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="faceStart" translatesAutoresizingMaskIntoConstraints="NO" id="59c-VD-oRA" userLabel="karaFaceStartImageView">
+                    <rect key="frame" x="112" y="123" width="96" height="135"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="59c-VD-oRA" secondAttribute="height" multiplier="106:149" id="qDn-d0-5zS"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="wyL-Vg-2VT" secondAttribute="bottom" id="1Bu-42-FGZ"/>
+                <constraint firstAttribute="centerX" secondItem="59c-VD-oRA" secondAttribute="centerX" id="BBV-jP-j3T"/>
+                <constraint firstAttribute="bottom" secondItem="8ie-xW-0ye" secondAttribute="bottom" constant="20" id="Kzo-t9-V3l"/>
+                <constraint firstItem="8ie-xW-0ye" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="20" symbolic="YES" id="MfP-vx-nX0"/>
+                <constraint firstItem="wyL-Vg-2VT" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="OEA-2T-RiE"/>
+                <constraint firstAttribute="centerX" secondItem="8ie-xW-0ye" secondAttribute="centerX" id="ZEH-qu-HZ9"/>
+                <constraint firstItem="59c-VD-oRA" firstAttribute="width" secondItem="wyL-Vg-2VT" secondAttribute="width" multiplier="0.3" id="fkK-Ba-hZt"/>
+                <constraint firstItem="wyL-Vg-2VT" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="lBd-RO-iTM"/>
+                <constraint firstAttribute="trailing" secondItem="wyL-Vg-2VT" secondAttribute="trailing" id="rt5-Sn-4ZN"/>
+                <constraint firstAttribute="centerY" secondItem="59c-VD-oRA" secondAttribute="centerY" constant="50" id="xgJ-Mm-Q8M"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="520" y="364"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="back" width="320" height="568"/>
+        <image name="faceStart" width="106" height="149"/>
+    </resources>
+</document>

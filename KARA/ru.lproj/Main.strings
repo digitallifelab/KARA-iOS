@@ -1,0 +1,75 @@
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "4AF-yQ-qhf"; */
+"4AF-yQ-qhf.normalTitle" = "Ok";
+
+/* Class = "UILabel"; text = "Select a date"; ObjectID = "5Yy-VP-gKe"; */
+"5Yy-VP-gKe.text" = "Select a date";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "5b4-9v-G7a"; */
+"5b4-9v-G7a.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Last child word"; ObjectID = "7aB-Ze-RDC"; */
+"7aB-Ze-RDC.text" = "Last child word";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DXk-I9-DQz"; */
+"DXk-I9-DQz.text" = "Label";
+
+/* Class = "UILabel"; text = "RootWord"; ObjectID = "Dtb-Bz-UJ7"; */
+"Dtb-Bz-UJ7.text" = "RootWord";
+
+/* Class = "UILabel"; text = "medium child word"; ObjectID = "Jnm-QA-keB"; */
+"Jnm-QA-keB.text" = "medium child word";
+
+/* Class = "UITextView"; text = "text view"; ObjectID = "Llz-4L-gIY"; */
+"Llz-4L-gIY.text" = "text view";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "M8i-yI-Eed"; */
+"M8i-yI-Eed.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NDm-1b-sdd"; */
+"NDm-1b-sdd.text" = "Label";
+
+/* Class = "UILabel"; text = "current emotion"; ObjectID = "O1H-Rv-rGo"; */
+"O1H-Rv-rGo.text" = "current emotion";
+
+/* Class = "UILabel"; text = "More"; ObjectID = "Pya-BI-XSg"; */
+"Pya-BI-XSg.text" = "выше";
+
+/* Class = "UILabel"; text = "Rate emotions"; ObjectID = "Vwx-s2-RgY"; */
+"Vwx-s2-RgY.text" = "Rate emotions";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "cKp-Bf-kbC"; */
+"cKp-Bf-kbC.normalTitle" = "Ok";
+
+/* Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "cZn-vn-zFH"; */
+"cZn-vn-zFH.normalTitle" = "Change Password";
+
+/* Class = "UILabel"; text = "Less"; ObjectID = "eCF-Xd-RUh"; */
+"eCF-Xd-RUh.text" = "ниже";
+
+/* Class = "UILabel"; text = "title edit"; ObjectID = "fa7-1U-Yke"; */
+"fa7-1U-Yke.text" = "title edit";
+
+/* Class = "UILabel"; text = "title"; ObjectID = "iLd-6U-rxA"; */
+"iLd-6U-rxA.text" = "title";
+
+/* Class = "UILabel"; text = "title"; ObjectID = "ngk-6H-5dN"; */
+"ngk-6H-5dN.text" = "title";
+
+/* Class = "UIBarButtonItem"; title = "Log Out"; ObjectID = "qsv-9W-qnz"; */
+"qsv-9W-qnz.title" = "Выход";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rpw-dJ-A8a"; */
+"rpw-dJ-A8a.text" = "Label";
+
+/* Class = "UISegmentedControl"; sl1-WK-mbd.segmentTitles[0] = "gentleman"; ObjectID = "sl1-WK-mbd"; */
+"sl1-WK-mbd.segmentTitles[0]" = "леди";
+
+/* Class = "UISegmentedControl"; sl1-WK-mbd.segmentTitles[1] = "lady"; ObjectID = "sl1-WK-mbd"; */
+"sl1-WK-mbd.segmentTitles[1]" = "джентльмен";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uk1-cQ-GQI"; */
+"uk1-cQ-GQI.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zZQ-Go-3kp"; */
+"zZQ-Go-3kp.text" = "Label";

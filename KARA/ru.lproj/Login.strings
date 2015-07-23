@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; normalTitle = "Изменить"; ObjectID = "AEJ-9U-HMp"; */
+"AEJ-9U-HMp.normalTitle" = "Изменить";
+
+/* Class = "UITextField"; placeholder = "пароль"; ObjectID = "Ero-Cg-TJr"; */
+"Ero-Cg-TJr.placeholder" = "пароль";
+
+/* Class = "UIButton"; normalTitle = "Зарегистрироваться"; ObjectID = "HLu-Zw-YIT"; */
+"HLu-Zw-YIT.normalTitle" = "Зарегистрироваться";
+
+/* Class = "UITextField"; placeholder = "новый пароль"; ObjectID = "NlT-Ir-F50"; */
+"NlT-Ir-F50.placeholder" = "новый пароль";
+
+/* Class = "UITextField"; placeholder = "повторите новый пароль"; ObjectID = "jyd-xm-inC"; */
+"jyd-xm-inC.placeholder" = "повторите новый пароль";
+
+/* Class = "UILabel"; text = "смахните вниз для возврата"; ObjectID = "moc-sx-TFD"; */
+"moc-sx-TFD.text" = "смахните вниз для возврата";
+
+/* Class = "UIButton"; normalTitle = "Вход"; ObjectID = "nuc-1q-3Zn"; */
+"nuc-1q-3Zn.normalTitle" = "Вход";
+
+/* Class = "UITextField"; placeholder = "фамилия"; ObjectID = "pwb-tG-Rrm"; */
+"pwb-tG-Rrm.placeholder" = "фамилия";
+
+/* Class = "UITextField"; placeholder = "e-mail"; ObjectID = "q7d-kI-aNq"; */
+"q7d-kI-aNq.placeholder" = "e-mail";
+
+/* Class = "UITextField"; placeholder = "e-mail"; ObjectID = "qke-6L-jde"; */
+"qke-6L-jde.placeholder" = "e-mail";
+
+/* Class = "UITextField"; placeholder = "имя"; ObjectID = "yx9-SL-vwE"; */
+"yx9-SL-vwE.placeholder" = "имя";
+
+/* Class = "UIButton"; normalTitle = "Реистрация"; ObjectID = "z79-TM-CWK"; */
+"z79-TM-CWK.normalTitle" = "Реистрация";
